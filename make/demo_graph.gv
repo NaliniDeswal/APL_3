@@ -1,0 +1,9 @@
+graph apple {
+// nodes
+a;
+b;
+c;
+d;
+// edges
+a -- b [label="2"];
+}
